@@ -19,6 +19,8 @@ version := "1.0"
 name := "yourproject"
 
 scalaVersion := "2.12.4"
+```
+```
 cd generators/
 git submodule add https://git-repository.com/yourproject.git
 ```
